@@ -6,7 +6,7 @@ O objetivo deste material é garantir a **transparência metodológica** e permi
 
 ## 📂 Sobre os Dados
 
-O arquivo `data/Tese tripla.xlsx` contém o levantamento das teses analisadas (2015-2024). Os dados foram estruturados em quatro dimensões metodológicas para a geração do fluxo:
+O arquivo `Tese tripla.xlsx` contém o levantamento das teses analisadas (2015-2024). Os dados foram estruturados em quatro dimensões metodológicas para a geração do fluxo:
 
 1.  **ENFOQUE:** Abordagem da pesquisa (ex: Qualitativa).
 2.  **ESTRATÉGIA:** O método ou design (ex: Estudo de Caso, Pesquisa-ação).
