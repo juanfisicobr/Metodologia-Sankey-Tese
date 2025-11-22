@@ -4,6 +4,8 @@ Este repositório contém o conjunto de dados e o código-fonte em Python utiliz
 
 O objetivo deste material é garantir a **transparência metodológica** e permitir a **replicação** dos fluxos de análise apresentados no estudo.
 
+**Visualise** em: https://juanfisicobr.github.io/sankey_diagram.html
+
 ## 📂 Sobre os Dados
 
 O arquivo `Tese tripla.xlsx` contém o levantamento das teses analisadas (2015-2024). Os dados foram estruturados em quatro dimensões metodológicas para a geração do fluxo:
